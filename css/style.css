@@ -1,0 +1,39 @@
+.container {
+  width: 1284px;
+  margin: 0 auto;
+  background-color: lightblue;
+}
+.contact-title {
+  text-align: center;
+}
+.contact-decsr {
+  text-align: center;
+  width: 644px;
+  margin: 0 auto;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.left-block-contact {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 102px;
+  padding-right: 196px;
+}
+.right-block-contact {
+  display: inline-block;
+  vertical-align: middle;
+  background-color: yellow;
+}
+.contact-a {
+  width: 212px;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 30px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.contact-tel {
+  margin-left: 36px;
+}
